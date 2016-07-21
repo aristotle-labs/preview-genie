@@ -1,0 +1,16 @@
+{
+  "propertyEditors": [
+    {
+      "name": "Preview Genie",
+      "alias": "PreviewGenie",
+      "editor": {
+        "valueType": "JSON",
+        "view": "~/App_Plugins/PreviewGenie/views/preview.genie.html"
+      }
+    }
+  ],
+  "javascript": [
+    "~/App_Plugins/PreviewGenie/js/preview.genie.controller.min.js"
+  ]
+}
+

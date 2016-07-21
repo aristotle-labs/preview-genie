@@ -1,0 +1,1 @@
+After this plugin is install all Preview buttons will be hidden by default.  In order to show the preview button on a document you will need to add this property to any page where you want the Preview buttton to be displayed.
